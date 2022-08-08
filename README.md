@@ -21,7 +21,9 @@ Make sure you have:
 ## Deployment
 Go to https://console.firebase.google.com/ to create a firebase project 
 1. Install the firebase-cli:
-   `npm install -g firebase-tools`
+   ```
+   npm install -g firebase-tools
+   ```
 2. Login into firebase by running this below command:
    `firebase login`
     You can test if the CLI is correctly installed by running `firebase projects:list`, which should show you a list of your Firebase Projects.     
