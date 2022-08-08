@@ -1,6 +1,17 @@
 # Deploy to firebase hosting
 In this guide, you will learn how to deploy your tezjs site to Firebase Hosting.
 
+## Deployed Url:
+`https://tezjs-deploy-firebase.web.app/`
+
+## Preparing for deployment:
+Run the following command to create tezjs project:
+  - `npm create tez@latest`
+  - `cd [projectName]`
+  - `npm install` - for installing the required dependencies
+  - `npm run build` - for build the project
+  - `npm run dev` - for run the project
+
 ## Pre-requisites
 Make sure you have:
   - Firebase account.
