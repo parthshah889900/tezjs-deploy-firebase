@@ -31,5 +31,5 @@ Go to https://console.firebase.google.com/ to create a firebase project
    firebase deploy
    
 ## References
-  - [Firebase cli reference](`https://firebase.google.com/docs/cli`)
-  - [Get Started with Firebase Hosting](`https://firebase.google.com/docs/hosting/quickstart`)
+  - [Firebase cli reference](https://firebase.google.com/docs/cli)
+  - [Get Started with Firebase Hosting](https://firebase.google.com/docs/hosting/quickstart)
