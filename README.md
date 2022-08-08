@@ -25,12 +25,18 @@ Go to https://console.firebase.google.com/ to create a firebase project
    npm install -g firebase-tools
    ```
 2. Login into firebase by running this below command:
-   `firebase login`
+   ```
+   firebase login
+   ```
     You can test if the CLI is correctly installed by running `firebase projects:list`, which should show you a list of your Firebase Projects.     
 3. Initialize the firebase using command:
-   `firebase init`
+   ```
+   firebase init
+   ```
 5. Deploy the dist into firebase using command:
+   ```
    firebase deploy
+   ```
    
 ## References
   - [Firebase cli reference](https://firebase.google.com/docs/cli)
