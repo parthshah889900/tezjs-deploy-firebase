@@ -1,4 +1,4 @@
-# Deploy to firebase hosting
+# Deploy to Firebase Hosting
 In this guide, you will learn how to deploy your tezjs site to Firebase Hosting.
 
 ## Deployed Url:
