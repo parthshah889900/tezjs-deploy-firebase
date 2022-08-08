@@ -1,13 +1,13 @@
 # Deploy to firebase hosting
 In this guide, you will learn how to deploy your tezjs site to Firebase Hosting.
 
-# Pre-requisites
+## Pre-requisites
 Make sure you have:
   - Firebase account.
   - node installed in your machine.
   - created a firebase project.
 
-# Deployment
+## Deployment
 Go to https://console.firebase.google.com/ to create a firebase project 
 1. Install the firebase-cli:
    `npm install -g firebase-tools`
@@ -19,6 +19,6 @@ Go to https://console.firebase.google.com/ to create a firebase project
 5. Deploy the dist into firebase using command:
    firebase deploy
    
-# References
+## References
   - Firebase cli reference: `https://firebase.google.com/docs/cli`
   - Get Started with Firebase Hosting: `https://firebase.google.com/docs/hosting/quickstart`
